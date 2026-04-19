@@ -1,4 +1,4 @@
-# UWT_Projekt1_Dino_Grgić
+# UWT_Projekt1_Dino_Grgić_UNIZD_SIT_2026
 
 Moderni, responzivni website za brijačnicu/frizerski salon smješten u Zadru. Projekt je izrađen kao dio sveučilišnog zadatka iz kolegija Uvod u Web Tehnologije (UWT).
 
