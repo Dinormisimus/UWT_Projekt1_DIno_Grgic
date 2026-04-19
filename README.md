@@ -20,9 +20,6 @@ Ovaj projekt prikazuje vještine rada s HTML5, CSS3 (Flexbox, Grid) i osnovnim p
 - **Google Fonts** - Korišteni fontovi `Poppins` i `Playfair Display` za postizanje premium izgleda.
 - **FontAwesome / Custom SVG** - Za ikone i vizualne elemente.
 
-## Komentar
-- Iz nekog razloga Favicon radi na VS-codeu, a ne radi na GitHub Pages-u.
-
 ## 📂 Struktura projekta
 ```text
 /barber-zadar
