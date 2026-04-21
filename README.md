@@ -19,9 +19,6 @@ Ovaj projekt prikazuje vještine rada s HTML5, CSS3 (Flexbox, Grid) i osnovnim p
 - **CSS3** - Napredno stiliziranje, Flexbox, Grid, CSS varijable i responsive dizajn.
 - **Google Fonts** - Fontovi `Poppins` i `Playfair Display` za premium izgled.
 
-## Komentar
-- Favicon je spreman u root mapi i koristi relativnu putanju. Ako se ne prikazuje na GitHub Pagesu, obriši cache ili osvježi stranicu nekoliko puta.
-
 ## 📂 Struktura projekta
 ```text
 /barber-zadar
